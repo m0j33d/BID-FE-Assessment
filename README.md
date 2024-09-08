@@ -34,4 +34,5 @@ Requirements:
 
 # Submission:
   - Share your code through a GitHub repository.
+  - Send your repository link to bidstores.ai@gmail.com
   - Include a brief README with instructions to run the project and any notes about your implementation.
